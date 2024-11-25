@@ -1,2 +1,2 @@
 # job-app-tracker
-Job and Internship candidate application tracker
+Job and Internship candidate application trackers
